@@ -1,1 +1,1 @@
-# gurus-sports-league
+# guru-sports-league
